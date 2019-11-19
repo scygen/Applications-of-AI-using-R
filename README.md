@@ -1,1 +1,1 @@
-# Applications-of-AI-using-R
+# Applications-of-Concurrent-Programing-using-Erlang
